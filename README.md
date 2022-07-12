@@ -101,20 +101,16 @@ In short :
 
 - Get 60-day free Digital Ocean hosting by registering with [OctoBot referral link](https://m.do.co/c/40c9737100b1).
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://octobot.click/gh-okteto-deploy)
-
-- Free 24-hour demo repeatable indefinitely on Okteto simply using your Github account
-
 ## Exchanges
 [![Binance](../assets/binance-logo.png)](https://octobot.click/gh-binance)
 [![Binance](../assets/ftx-logo.png)](https://octobot.click/gh-ftx)
 [![Binance](../assets/okex-logo.png)](https://octobot.click/gh-okex)
 [![Binance](../assets/gateio-logo.png)](https://octobot.click/gh-gateio)
 [![Binance](../assets/huobi-logo.png)](https://octobot.click/gh-huobi)
-[![Bitmax](../assets/ascendex-logo.png)](https://octobot.click/gh-ascendex)
 [![Coinbase](../assets/coinbasepro-logo.png)](https://pro.coinbase.com)
 [![Kucoin](../assets/kucoin-logo.png)](https://www.kucoin.com)
 [![Bitmex](../assets/bitmex-logo.png)](https://bitmex.com)
+[![Bitmax](../assets/ascendex-logo.png)](https://octobot.click/gh-ascendex)
 
 Octobot supports many [exchanges](https://octobot.click/gh-exchanges) thanks to the [ccxt library](https://github.com/ccxt/ccxt). 
 To activate trading on an exchange, just configure OctoBot with your api keys as described [on the exchange documentation](https://www.octobot.online/guides/#exchanges).
@@ -143,9 +139,5 @@ See [LICENSE](https://octobot.click/gh-license) to see the full text.
 <tr>
 <td>Special thanks to <a href="https://m.do.co/c/40c9737100b1" target="_blank">DigitalOcean</a> for hosting OctoBot's open source tentacles and community websites.</td>
 <td><a href="https://m.do.co/c/40c9737100b1" target="_blank"><p align="center"><img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PNG/DO_Logo_Horizontal_Blue.png?utm_medium=opensource&utm_source=OctoBot"></p></a></td>
-</tr>
-<tr>
-<td>Thanks to <a href="https://okteto.com/" target="_blank">Okteto</a> for allowing OctoBot developers to test their changes online with a simple button.</td>
-<td><a href="https://okteto.com/" target="_blank"><p align="center"><img src="https://github.com/Drakkar-Software/OctoBot/blob/assets/okteto.png?raw=true"></p></a></td>
 </tr>
 </table>
